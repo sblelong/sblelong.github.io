@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "fr-FR"
+locale                   : "en-CA"
 title                    : "Sacha Benarroch-Lelong"
 title_separator          : "-"
 name                     : &name "Sacha Benarroch-Lelong"
-description              : &description "Étudiant au MSc en mathématiques appliquées"
+description              : &description "MSc student in applied mathematics"
 url                      : https://sblelong.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sblelong/sblelong.github.io"
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "pp.jpg"
   name             : "Sacha Benarroch-Lelong"
-  pronouns         : "Il/Lui"
-  bio              : "Étudiant au MSc en mathématiques appliquées"
+  pronouns         : "He/Him"
+  bio              : "MSc student in applied mathematics"
   location         : "Montréal, QC, Canada"
   employer         : "Polytechnique Montréal"
   uri              : # URL
