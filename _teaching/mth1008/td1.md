@@ -3,4 +3,6 @@ title: "TD1 : Calcul matriciel, systèmes d’équations et indépendance linéa
 permalink: /teaching/mth1008/td1
 ---
 
-Contenu
+| Section                       | Routine | Intermédiaire | Approfondi |
+| ----------------------------- | ------- | ------------- | ---------- |
+| §2.1. Opérations matricielles |         |               |
