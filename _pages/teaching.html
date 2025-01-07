@@ -8,7 +8,9 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
-{% if not(post.title contains "TD") %}
+{% if post.title contains "TD" %}
+{% continue %}
+{% else %}
 {% include archive-single.html %}
 {% endif %}
 {% endfor %}
