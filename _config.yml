@@ -21,7 +21,7 @@ repository               : "sblelong/sblelong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pp.jpg"
+  avatar           : # "pp.jpg"
   name             : "Sacha Benarroch-Lelong"
   pronouns         : "He/Him"
   bio              : "MSc student in applied mathematics"
