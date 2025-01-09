@@ -1,6 +1,7 @@
 ---
 title: "Organisation des travaux dirigés"
 permalink: /teaching/mth1008/organisation
+collection: others
 ---
 
 ## Horaire
