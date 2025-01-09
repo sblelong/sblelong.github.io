@@ -5,4 +5,4 @@ permalink: /teaching/mth1008/td1
 
 | Section                       | Routine | Intermédiaire | Approfondi |
 | ----------------------------- | ------- | ------------- | ---------- |
-| §2.1. Opérations matricielles |         |               |
+| §2.1. Opérations matricielles |         |               |            |
