@@ -24,7 +24,7 @@ Les exercices du livre seront donnés par section (le symbole *§* sera utilisé
 - *Intermédiaire* : exercices de calcul ou réflexion constituant la matière principale de l'examen;
 - *Approfondi* : exercices allant plus loin que les calculs classiques. Ils ne sont pas toujours (mais souvent) les plus compliqués et vous prépareront aux questions d'examen nécessitant plus de réflexion personnelle.
 
-### Mini-projets
+## Mini-projets
 
 4 fois dans la session (dates ci-dessous), la moitié de la séance sera dédiée à un mini-projet. Il s'agira d'un travail de groupe (3-4 étudiant.e.s) autour d'un sujet illustrant des applications de l'algèbre linéaire ou des questions approfondissant le cours.
 
