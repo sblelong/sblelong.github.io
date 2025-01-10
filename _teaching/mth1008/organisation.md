@@ -23,3 +23,19 @@ Les exercices du livre seront donnés par section (le symbole *§* sera utilisé
 - *Routine* : exercices de base pour éveiller les premiers réflexes;
 - *Intermédiaire* : exercices de calcul ou réflexion constituant la matière principale de l'examen;
 - *Approfondi* : exercices allant plus loin que les calculs classiques. Ils ne sont pas toujours (mais souvent) les plus compliqués et vous prépareront aux questions d'examen nécessitant plus de réflexion personnelle.
+
+### Mini-projets
+
+4 fois dans la session (dates ci-dessous), la moitié de la séance sera dédiée à un mini-projet. Il s'agira d'un travail de groupe (3-4 étudiant.e.s) autour d'un sujet illustrant des applications de l'algèbre linéaire ou des questions approfondissant le cours.
+
+Les groupes sont laissés à votre choix pour le 1<sup>er</sup> mini-projet, ils seront imposés pour les suivants.
+
+Les notes de cours et le livre sont autorisés, mais **aucun appareil électronique** et donc notamment, pas de notes de cours prises sur tablette ou de version électronique du livre.
+
+Les mini-projets commenceront à **16h35**. Votre présence 5 minutes avant est requise dans la salle pour démarrer à l'heure. Il s'agit d'une modalité d'évaluation, toute absence ou retard de plus de 5 minutes devra être motivé auprès du registrariat.
+{: .notice}
+
+| Mini-projet 1 | 29/01/2025 |
+| Mini-projet 2 | 19/01/2025 |
+| Mini-projet 3 | 19/01/2025 |
+| Mini-projet 4 | 02/01/2025 |
