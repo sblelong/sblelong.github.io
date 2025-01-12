@@ -5,11 +5,11 @@ permalink: /teaching/mth1008/td1
 
 ## Question de cours
 
-Considérez les données de l'exercice §1.4-14. Posons \\(A\triangleq[a_1,a_2,a_3]\\) où \\(a_1\\), \\(a_2\\) et \\(a_3\\) sont des vecteurs de \\(\mathbb{R}^3\\).
+Une famille \\(\\{v_1,...,v_p\\}\\) de vecteurs de \\(\mathbb{R}^n\\) est dite *liée* si un des vecteurs \\(v_i\\) (\\(i\in\\{1,...,p\\}\\)) s'exprime comme une combinaison linéaire des \\(p-1\\) autres vecteurs. Ceci se réécrit comme : il existe \\(i\in\\{1,...,p\\}\\) et des scalaires \\(\alpha_1,...,\alpha_{i-1},\alpha_{i+1},...,\alpha_p\in\mathbb{R}\\) tels que :
 
-1. Représentez les vecteurs \\(a_1\\), \\(a_2\\), \\(a_3\\) et \\(u\\) dans \\(\mathbb{R}^3\\). Constatez visuellement que \\(u\notin\mathrm{Vect}\\{a_1,a_2,a_3\\}\\).
-2. Le système \\(Ax=u\\) admet-t-il une solution ? Justifiez à l'aide de la question précédente.
-3. La justification passée est basée sur un constat visuel et n'est donc pas assez rigoureuse. Quel argument numérique est attendu ici ?
+$$
+    v_i=\alpha_1v_1+...+\alpha_{i-1}v_{i-1}+\alpha_{i+1}v_{i+1}+...+\alpha_pv_p=\sum_{\substack{j=1\\ j\neq i}^p\alpha_jv_j}.
+$$
 
 ## Exercices
 
