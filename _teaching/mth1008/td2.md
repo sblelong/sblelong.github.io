@@ -13,9 +13,6 @@ permalink: /teaching/mth1008/td2
 | --------------------------------------------------- | ------- | ------------- | ---------- |
 | §1.5. Ensembles des solutions de systèmes linéaires |         |               |            |
 | §4.6. Rang                                          |         |               |            |
-| §2.5. Factorisations matricielles                   |         |               |            |
-| §3.1. Introduction aux déterminants                 |         |               |            |
-| §3.2. Propriétés des déterminants                   |         |               |            |
 
 
 
