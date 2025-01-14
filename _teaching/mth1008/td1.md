@@ -28,7 +28,7 @@ Montrez que ces deux définitions sont bien équivalentes.
 | §1.7. Indépendance linéaire                    | 2, 10   | 14, 18, 20, 22, 24 | 32         |
 | §2.2. Inverse d'une matrice                    | 3, 6    | 13, 18, 20, 32     | 8          |
 | §2.3. Caractérisation des matrices inversibles | 2, 4    | 14, 16, 23         | 26         |
-| §2.4. Matrices par blocs                       | 8       | 12, 22, 25         |            |
+| §2.4. Matrices par blocs                       | 8       | 12, 21, 25         |            |
 
 
 *[Routine]: Exercices de base pour éveiller les premiers réflexes.
