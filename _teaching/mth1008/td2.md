@@ -5,7 +5,7 @@ permalink: /teaching/mth1008/td2
 
 ## Question de cours
 
-Soit \\(A\\) une matrice de taille \\(m\times n\\) à coefficients réels. Montrer que les colonnes de \\(A\\) sont linéairement indépendantes si et seulement si \\(\mathrm{Ker}(A)=\{0\}\\).
+Soit \\(A\\) une matrice de taille \\(m\times n\\) à coefficients réels. Montrer que les colonnes de \\(A\\) sont linéairement indépendantes si et seulement si \\(\mathrm{Ker}(A)=\\{0\\}\\).
 
 
 ## Exercices
