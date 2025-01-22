@@ -37,10 +37,13 @@ On réarrange ceci en faisant passer la parenthèse de l'autre côté de l'égal
 $$
     v_i=-\left(\frac{\alpha_1}{\alpha_i}v_1+...+\frac{\alpha_{i-1}}{\alpha_i}v_{i-1}+\frac{\alpha_{i+1}}{\alpha_i}v_{i+1}+...+\frac{\alpha_p}{\alpha_i}\right)=-\frac{1}{\alpha_i}\sum_{\substack{j=1\\ j\neq i}}\alpha_jv_j.
 $$
+
 Et ceci est une expression de \\(v_i\\) comme combinaison linéaire des \\(p-1\\) autres vecteurs, où on a fixé
+
 $$
     \beta_j=-\frac{\alpha_j}{\alpha_i}.
 $$
+
 Les 2 définitions sont bien équivalentes.
 
 ## Exercices
