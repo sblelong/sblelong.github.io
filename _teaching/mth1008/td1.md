@@ -20,30 +20,28 @@ où \\(0_n\\) désigne le vecteur de \\(\mathbb{R}^n\\) rempli de zéros.
 
 Montrez que ces deux définitions sont bien équivalentes.
 
-<details>
-    <summary>Correction</summary>
-    Le plus simple est de partir de la définition donnée dans le cours pour montrer qu'une relation de dépendance linéaire y est cachée. Supposons donc que l'on a une famille \\(\{v_1,...,v_p\}\\) de vecteurs de \\(\mathbb{R}^n\\) et des réels \\(\alpha_1,...,\alpha_p\\) tels que
-    
-    $$
-        \alpha_1v_1+...+\alpha_pv_p=\sum_{j=1}^p\alpha_jv_j=0_n.
-    $$
+### Correction
+Le plus simple est de partir de la définition donnée dans le cours pour montrer qu'une relation de dépendance linéaire y est cachée. Supposons donc que l'on a une famille \\(\{v_1,...,v_p\}\\) de vecteurs de \\(\mathbb{R}^n\\) et des réels \\(\alpha_1,...,\alpha_p\\) tels que
 
-    Supposons qu'il existe un \\(\alpha_i\\) (où l'indice \\(i\\) est choisi dans \\(\{1,...,p\}\\)) tel que \\(\alpha_i\neq 0\\). On peut alors faire ressortir le terme \\(\alpha_iv_i\\) de notre somme : on a
-    $$
-        \alpha_iv_i+\left(\alpha_1v_1+...+\alpha_{i-1}v_{i-1}+\alpha_{i+1}v_{i+1}+...+\alpha_pv_p\right)=0_n
-    $$
-    *(On a simplement mis un terme en évidence dans la somme.)*
-    
-    On réarrange ceci en faisant passer la parenthèse de l'autre côté de l'égalité. Puisque \\(\alpha_i\neq 0\\), on peut ensuite diviser et on obtient :
-    $$
-        v_i=-\left(\frac{\alpha_1}{\alpha_i}v_1+...+\frac{\alpha_{i-1}}{\alpha_i}v_{i-1}+\frac{\alpha_{i+1}}{\alpha_i}v_{i+1}+...+\frac{\alpha_p}{\alpha_i}\right)=-\frac{1}{\alpha_i}\sum_{\substack{j=1\\ j\neq i}}\alpha_jv_j.
-    $$
-    Et ceci est une expression de \\(v_i\\) comme combinaison linéaire des \\(p-1\\) autres vecteurs, où on a fixé
-    $$
-        \beta_j=-\frac{\alpha_j}{\alpha_i}.
-    $$
-    Les 2 définitions sont bien équivalentes.
-</details>
+$$
+    \alpha_1v_1+...+\alpha_pv_p=\sum_{j=1}^p\alpha_jv_j=0_n.
+$$
+
+Supposons qu'il existe un \\(\alpha_i\\) (où l'indice \\(i\\) est choisi dans \\(\{1,...,p\}\\)) tel que \\(\alpha_i\neq 0\\). On peut alors faire ressortir le terme \\(\alpha_iv_i\\) de notre somme : on a
+$$
+    \alpha_iv_i+\left(\alpha_1v_1+...+\alpha_{i-1}v_{i-1}+\alpha_{i+1}v_{i+1}+...+\alpha_pv_p\right)=0_n
+$$
+*(On a simplement mis un terme en évidence dans la somme.)*
+
+On réarrange ceci en faisant passer la parenthèse de l'autre côté de l'égalité. Puisque \\(\alpha_i\neq 0\\), on peut ensuite diviser et on obtient :
+$$
+    v_i=-\left(\frac{\alpha_1}{\alpha_i}v_1+...+\frac{\alpha_{i-1}}{\alpha_i}v_{i-1}+\frac{\alpha_{i+1}}{\alpha_i}v_{i+1}+...+\frac{\alpha_p}{\alpha_i}\right)=-\frac{1}{\alpha_i}\sum_{\substack{j=1\\ j\neq i}}\alpha_jv_j.
+$$
+Et ceci est une expression de \\(v_i\\) comme combinaison linéaire des \\(p-1\\) autres vecteurs, où on a fixé
+$$
+    \beta_j=-\frac{\alpha_j}{\alpha_i}.
+$$
+Les 2 définitions sont bien équivalentes.
 
 ## Exercices
 
