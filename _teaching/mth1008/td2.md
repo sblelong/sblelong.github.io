@@ -1,20 +1,29 @@
 ---
-title: "TD2 : Noyau et rang d'une matrice, solution complète d'un système linéaire"
+title: "TD2 : Noyau, rang, factorisation \\(LU\\) et déterminants"
 permalink: /teaching/mth1008/td2
 ---
 
 ## Question de cours
 
+### Noyau et SÉLs (exercice §1.5-26)
+
 Soient \\(A\\) une matrice de taille \\(m\times n\\) à coefficients réels et \\(b\in\mathbb{R}^m\\). Supposons que le système linéaire \\(Ax=b\\) soit compatible. Montrer que la solution à ce système est unique si et seulement si (\\(\Leftrightarrow\\)) \\(\mathrm{Ker}(A)=\\{0\\}\\).
+
+### Propriétés des déterminants et matrices inversibles
+
+En utilisant les propriétés que vous connaissez sur les déterminants, montrez la propriété suivante (connue) : si \\(A\\) et \\(B\\) sont des matrices carrées de mêmes tailles et inversibles, alors \\(AB\\) est inversible.
 
 
 ## Exercices
 
-| Section                                             | Routine  | Intermédiaire | Approfondi |
-| --------------------------------------------------- | -------- | ------------- | ---------- |
-| §1.5. Ensembles des solutions de systèmes linéaires | 5, 8, 12 | 14, 38        | 26         |
-| §4.6. Rang                                          |          | 19, 25        | 30         |
+À cause du mini-projet 1, seuls les exercices indiqués en *italique* seront traités pendant le TD. Les autres feront l'objet d'un corrigé écrit.
 
+| Section                                             | Routine                | Intermédiaire | Approfondi |
+| --------------------------------------------------- | ---------------------- | ------------- | ---------- |
+| §1.5. Ensembles des solutions de systèmes linéaires | 5, *8*, *12*           | 14, 38        |            |
+| §4.6. Rang                                          |                        | *19*, 25      | 30         |
+| §2.5. Factorisations matricielles                   | *4*, *14*              | 21            | 24         |
+| §3.1. Introduction aux déterminants                 | *Cours : exemple 5*, 4 | 24, 26        | 31         |
 
 
 *[Routine]: Exercices de base pour éveiller les premiers réflexes.

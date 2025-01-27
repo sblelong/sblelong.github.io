@@ -1,18 +1,22 @@
 ---
-title: "TD3 : Déterminants, factorisation \\(LU\\)"
+title: "TD3 : Propriétés des déterminants, espaces vectoriels (partie 1)"
 permalink: /teaching/mth1008/td3
 ---
 
 ## Question de cours
 
+L'exercice §4.1-20 propose de montrer que l'ensemble \\(\mathcal{C}([a,b])\\) des fonctions continues sur un intervalle \\([a,b]\\) est un espace vectoriel (rappel : un *sous-espace vectoriel* est avant tout un espace vectoriel lui-même). Montrer que l'ensemble \\(\mathcal{C}_T([a,b])\\) des fonctions périodiques de période \\(T>0\\) est un sous-espace vectoriel de \\(\mathcal{C}([a,b])\\).
+
+Rappel : une fonction est dite périodique de période \\(T\\) si pour tout \\(x\in[a,b]\\), on a \\(f(x+T)=f(x)\\).
 
 ## Exercices
 
-| Section                             | Routine | Intermédiaire | Approfondi |
-| ----------------------------------- | ------- | ------------- | ---------- |
-| §2.5. Factorisations matricielles   |         |               |            |
-| §3.1. Introduction aux déterminants |         |               |            |
-| §3.2. Propriétés des déterminants   |         |               |            |
+| Section                                           | Routine | Intermédiaire | Approfondi |
+| ------------------------------------------------- | ------- | ------------- | ---------- |
+| §3.2. Propriétés des déterminants                 |         |               |            |
+| §4.1. Espaces vectoriels, sous-espaces vectoriels |         |               |            |
+| §4.2. Noyau, image et applications linéaires      |         |               |            |
+| §4.3. Familles libres et bases                    |         |               |            |
 
 *[Routine]: Exercices de base pour éveiller les premiers réflexes.
 *[Intermédiaire]: Exercices de calcul ou réflexion constituant la matière principale de l'examen.
