@@ -1,19 +1,19 @@
 ---
-title: "TD2 : Sous-espaces remarquables : image et noyau. Solution complète d'un système"
+title: "TD2 : Noyau et rang d'une matrice, solution complète d'un système linéaire"
 permalink: /teaching/mth1008/td2
 ---
 
 ## Question de cours
 
-Soit \\(A\\) une matrice de taille \\(m\times n\\) à coefficients réels. Montrer que les colonnes de \\(A\\) sont linéairement indépendantes si et seulement si \\(\mathrm{Ker}(A)=\\{0\\}\\).
+Soient \\(A\\) une matrice de taille \\(m\times n\\) à coefficients réels et \\(b\in\mathbb{R}^m\\). Supposons que le système linéaire \\(Ax=b\\) soit compatible. Montrer que la solution à ce système est unique si et seulement si (\\(\Leftrightarrow\\)) \\(\mathrm{Ker}(A)=\{0\}\\).
 
 
 ## Exercices
 
-| Section                                             | Routine | Intermédiaire | Approfondi |
-| --------------------------------------------------- | ------- | ------------- | ---------- |
-| §1.5. Ensembles des solutions de systèmes linéaires | 5, 8, 12        | 14, 38              | 26           |
-| §4.6. Rang                                          |         | 19, 25              | 35           |
+| Section                                             | Routine  | Intermédiaire | Approfondi |
+| --------------------------------------------------- | -------- | ------------- | ---------- |
+| §1.5. Ensembles des solutions de systèmes linéaires | 5, 8, 12 | 14, 38        | 26         |
+| §4.6. Rang                                          |          | 19, 25        | 35         |
 
 
 
