@@ -13,7 +13,7 @@ Soient \\(A\\) une matrice de taille \\(m\times n\\) à coefficients réels et \
 | Section                                             | Routine  | Intermédiaire | Approfondi |
 | --------------------------------------------------- | -------- | ------------- | ---------- |
 | §1.5. Ensembles des solutions de systèmes linéaires | 5, 8, 12 | 14, 38        | 26         |
-| §4.6. Rang                                          |          | 19, 25        | 35         |
+| §4.6. Rang                                          |          | 19, 25        | 30         |
 
 
 
