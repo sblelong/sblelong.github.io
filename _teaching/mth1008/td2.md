@@ -5,7 +5,7 @@ permalink: /teaching/mth1008/td2
 
 ## Question de cours
 
-Soient \\(A\\) une matrice de taille \\(m\times n\\) à coefficients réels et \\(b\in\mathbb{R}^m\\). Supposons que le système linéaire \\(Ax=b\\) soit compatible. Montrer que la solution à ce système est unique si et seulement si (\\(\Leftrightarrow\\)) \\(\mathrm{Ker}(A)=\{0\}\\).
+Soient \\(A\\) une matrice de taille \\(m\times n\\) à coefficients réels et \\(b\in\mathbb{R}^m\\). Supposons que le système linéaire \\(Ax=b\\) soit compatible. Montrer que la solution à ce système est unique si et seulement si (\\(\Leftrightarrow\\)) \\(\mathrm{Ker}(A)=\\{0\\}\\).
 
 
 ## Exercices
