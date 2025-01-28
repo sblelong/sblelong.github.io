@@ -8,6 +8,7 @@ permalink: /teaching/mth1008/td3
 ### Sous-espaces vectoriels de \\(\mathbb{R}^{n\times n}\\) (examen final, A2024)
 
 L'espace des matrices carrées \\(n\times n\\) à coefficients réels est un espace vectoriel. Les ensembles suivants en sont-ils des sous-espaces vectoriels ?
+
 a. L'ensemble des matrices inversibles
 b. L'ensemble des matrices antisymétriques, i.e. telles que \\(A^\top=-A\\).
 
