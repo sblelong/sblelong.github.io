@@ -3,16 +3,9 @@ title: "TD2 : Noyau, rang, factorisation \\(LU\\) et déterminants"
 permalink: /teaching/mth1008/td2
 ---
 
-## Question de cours
-
-### Noyau et SÉLs (exercice §1.5-26)
+## Question de cours (exercice §1.5-26)
 
 Soient \\(A\\) une matrice de taille \\(m\times n\\) à coefficients réels et \\(b\in\mathbb{R}^m\\). Supposons que le système linéaire \\(Ax=b\\) soit compatible. Montrer que la solution à ce système est unique si et seulement si (\\(\Leftrightarrow\\)) \\(\mathrm{Ker}(A)=\\{0\\}\\).
-
-### Propriétés des déterminants et matrices inversibles
-
-En utilisant les propriétés que vous connaissez sur les déterminants, montrez la propriété suivante (connue) : si \\(A\\) et \\(B\\) sont des matrices carrées de mêmes tailles et inversibles, alors \\(AB\\) est inversible.
-
 
 ## Exercices
 
