@@ -15,11 +15,19 @@ Un point de logique : supposons que le système soit compatible et notons
 
 On vous demande ici de démontrer que \\(P\Longleftrightarrow Q\\). Ceci se fait en démontrant les 2 implications \\(P\implies Q\\) et \\(Q\implies P\\).
 
+#### \\(P\implies Q\\)
+
+Ce sens peut se démontrer par contraposée : on va en fait montrer que \\(\mathrm{Ker}(A)\neq\\{0\\}\implies\\) la solution n'est pas unique. Vous devriez l'avoir compris de votre cours : on peut ajouter des vecteurs du noyau à une solution particulière pour obtenir une autre solution. Rigoureusement, ceci s'écrit : soit \\(x\\) une solution du SÉL et soit \\(y\in\mathrm{Ker}(A)\\). On va supposer que \\(y\neq 0\\), c'est possible puisque que \\(\mathrm{Ker}(A)\neq\\{0\\}\\). On a alors :
+
+$$A(x+y)=Ax+Ay=b+0=b$$
+
+par la distributivité de la multiplication matrice-vecteur, \\(Ax=b\\) (puisque \\(x\\) est solution) et \\(y\in\mathrm{Ker}(A)\\). Donc le vecteur \\(x+y\\) est aussi une solution du SÉL, mais on est certain que \\(x+y\neq x\\) puisque \\(y\neq 0\\). Il existe donc au moins 2 solutions distinctes au SÉL dès que \\(\mathrm{Ker}(A)\neq\\{0\\}\\). On a donc montré que \\(\neq Q\implies\neq P\\), i.e. \\(P\implies Q\\).
+
 #### \\(Q\implies P\\)
 
-Le sens le plus facile à démontrer est celui-ci : si \\(\mathrm{Ker}(A)=\\{0\\}\\), alors la solution est unique. Pour ce faire, supposons que \\(\mathrm{Ker}(A)=\\{0\\}\\), et notons \\(x\in\mathbb{R}^n\\) une solution du SÉL.
+On veut ici montrer que si \\(\mathrm{Ker}(A)=\\{0\\}\\), alors la solution est unique. Pour ce faire, supposons que \\(\mathrm{Ker}(A)=\\{0\\}\\), et notons \\(x\in\mathbb{R}^n\\) une solution du SÉL.
 
-Le secret de la preuve réside dans un constat très simple : n'importe quel vecteur \\(y\neq x\\) peut s'écrire comme \\(x +\\) "un certain déplacement non-nul dans \\(\mathbb{R}^n\\)". Notons ce déplacement \\(z\in\mathbb{R}^n\setminus\\{0\\}\\), on a alors une écriture de forme \\(y=x+z\\) pour tout vecteur \\(y\neq x\\). Autrement dit, quand on calcule \\(Ay\\) pour tout \\(y\neq x\\), on a :
+Le secret de la preuve réutilise une astuce employée dans le sens \\(P\implies Q\\) : n'importe quel vecteur \\(y\neq x\\) peut s'écrire comme \\(x +\\) "un certain déplacement non-nul dans \\(\mathbb{R}^n\\)". Notons ce déplacement \\(z\in\mathbb{R}^n\setminus\\{0\\}\\), on a alors une écriture de forme \\(y=x+z\\) pour tout vecteur \\(y\neq x\\). Autrement dit, quand on calcule \\(Ay\\) pour tout \\(y\neq x\\), on a :
 
 $$Ay=A(x+z)=Ax+Az=b+Az$$,
 
