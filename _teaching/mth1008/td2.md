@@ -15,7 +15,7 @@ Un point de logique : supposons que le système soit compatible et notons
 
 On vous demande ici de démontrer que \\(P\Longleftrightarrow Q\\). Ceci se fait en démontrant les 2 implications \\(P\implies Q\\) et \\(Q\implies P\\).
 
-\\(\fbox{Q\\implies P}\\) Le sens le plus facile à démontrer est celui-ci : si \\(\mathrm{Ker}(A)=\\{0\\}\\), alors la solution est unique. Pour ce faire, supposons que \\(\mathrm{Ker}(A)=\\{0\\}\\), et notons \\(x\in\mathbb{R}^n\\) une solution du SÉL.
+\\(Q\implies P\\) Le sens le plus facile à démontrer est celui-ci : si \\(\mathrm{Ker}(A)=\\{0\\}\\), alors la solution est unique. Pour ce faire, supposons que \\(\mathrm{Ker}(A)=\\{0\\}\\), et notons \\(x\in\mathbb{R}^n\\) une solution du SÉL.
 
 Le secret de la preuve réside dans un constat très simple : n'importe quel vecteur \\(y\neq x\\) peut s'écrire comme \\(x +\\) "un certain déplacement non-nul dans \\(\mathbb{R}^n\\)". Notons ce déplacement \\(z\in\mathbb{R}^n\setminus\\{0\\}\\), on a alors une écriture de forme \\(y=x+z\\) pour tout vecteur \\(y\neq x\\). Autrement dit, quand on calcule \\(Ay\\) pour tout \\(y\neq x\\), on a :
 
