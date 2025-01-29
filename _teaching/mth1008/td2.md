@@ -29,7 +29,7 @@ On veut ici montrer que si \\(\mathrm{Ker}(A)=\\{0\\}\\), alors la solution est 
 
 Le secret de la preuve réutilise une astuce employée dans le sens \\(P\implies Q\\) : n'importe quel vecteur \\(y\neq x\\) peut s'écrire comme \\(x +\\) "un certain déplacement non-nul dans \\(\mathbb{R}^n\\)". Notons ce déplacement \\(z\in\mathbb{R}^n\setminus\\{0\\}\\), on a alors une écriture de forme \\(y=x+z\\) pour tout vecteur \\(y\neq x\\). Autrement dit, quand on calcule \\(Ay\\) pour tout \\(y\neq x\\), on a :
 
-$$Ay=A(x+z)=Ax+Az=b+Az$$,
+$$Ay=A(x+z)=Ax+Az=b+Az$$
 
 par la distributivité de la multiplication matrice-vecteur, et parce que \\(Ax=b\\) (\\(x\\) est solution). Donc pour que \\(Ay=b\\) également, il faudrait que... \\(Az=0\\) ! Voyez-vous l'utilité du noyau ici ?
 
