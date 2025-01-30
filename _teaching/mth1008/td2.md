@@ -50,3 +50,10 @@ On a supposé que \\(z\neq 0\\), mais puisque \\(\mathrm{Ker}(A)=\\{0\\}\\), le 
 *[Routine]: Exercices de base pour éveiller les premiers réflexes.
 *[Intermédiaire]: Exercices de calcul ou réflexion constituant la matière principale de l'examen.
 *[Approfondi]: Exercices allant plus loin que les calculs classiques. Ils ne sont pas toujours (mais souvent) les plus compliqués et vous prépareront aux questions d'examen nécessitant plus de réflexion personnelle.
+
+## Capsules de correction
+
+- [Calcul rapide du noyau d'une matrice](https://youtu.be/dPulm6OioXY)
+- Factorisation \\(LU\\)
+  - [Résolution d'un système](https://youtu.be/kNg1zhz98i4)
+  - [Calcul d'une factorisation](https://youtu.be/w8zb5liSURU)
