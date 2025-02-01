@@ -3,7 +3,7 @@ title: "TD0 : Révisions : calculs matriciel et vectoriel, systèmes d’équati
 permalink: /teaching/mth1008/td0
 ---
 
-[Correction](/files/td0-correction.pdf)
+[Solutionnaire](/files/td0-correction.pdf)
 
 | Section                                               | Routine         | Intermédiaire     | Approfondi |
 | ----------------------------------------------------- | --------------- | ----------------- | ---------- |

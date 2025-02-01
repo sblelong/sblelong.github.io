@@ -37,7 +37,7 @@ On a supposé que \\(z\neq 0\\), mais puisque \\(\mathrm{Ker}(A)=\\{0\\}\\), le 
 
 ## Exercices
 
-À cause du mini-projet 1, seuls les exercices indiqués en *italique* seront traités pendant le TD. Les autres feront l'objet d'un corrigé écrit.
+[Solutionnaire pour les exercices non traités en TD](/files/td2-correction.pdf)
 
 | Section                                             | Routine                | Intermédiaire | Approfondi |
 | --------------------------------------------------- | ---------------------- | ------------- | ---------- |
@@ -46,14 +46,13 @@ On a supposé que \\(z\neq 0\\), mais puisque \\(\mathrm{Ker}(A)=\\{0\\}\\), le 
 | §2.5. Factorisations matricielles                   | *4*, *14*              | 21            | 24         |
 | §3.1. Introduction aux déterminants                 | *Cours : exemple 5*, 4 | 24, 26        | 31         |
 
+### Capsules de rappel
+- [Calcul rapide du noyau d'une matrice](https://youtu.be/dPulm6OioXY)
+- Factorisation \\(LU\\)
+  - [Résolution d'un système](https://youtu.be/kNg1zhz98i4)
+  - [Calcul d'une factorisation](https://youtu.be/w8zb5liSURU)
 
 *[Routine]: Exercices de base pour éveiller les premiers réflexes.
 *[Intermédiaire]: Exercices de calcul ou réflexion constituant la matière principale de l'examen.
 *[Approfondi]: Exercices allant plus loin que les calculs classiques. Ils ne sont pas toujours (mais souvent) les plus compliqués et vous prépareront aux questions d'examen nécessitant plus de réflexion personnelle.
 
-## Capsules de correction
-
-- [Calcul rapide du noyau d'une matrice](https://youtu.be/dPulm6OioXY)
-- Factorisation \\(LU\\)
-  - [Résolution d'un système](https://youtu.be/kNg1zhz98i4)
-  - [Calcul d'une factorisation](https://youtu.be/w8zb5liSURU)
