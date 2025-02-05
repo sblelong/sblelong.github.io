@@ -23,17 +23,17 @@ $$\begin{bmatrix}0 & \cdots & 0\\ \vdots & \ddots & \vdots\\ 0 & \cdots & 0\end{
 
 b. Celle-ci est moins évidente, allons-y étape par étape.
 
-1. L'élément nul \\(0\\) est de nouveau la matrice nulle. Cette matrice est effectivement antsymétrique puisque
+- L'élément nul \\(0\\) est de nouveau la matrice nulle. Cette matrice est effectivement antsymétrique puisque
 
 $$\begin{bmatrix}0 & \cdots & 0\\ \vdots & \ddots & \vdots\\ 0 & \cdots & 0\end{bmatrix}^\top=\begin{bmatrix}0 & \cdots & 0\\ \vdots & \ddots & \vdots\\ 0 & \cdots & 0\end{bmatrix}=-\begin{bmatrix}0 & \cdots & 0\\ \vdots & \ddots & \vdots\\ 0 & \cdots & 0\end{bmatrix}$$.
 
-2. Considérons \\(A\\) une matrice antisymétrique et \\(\alpha\in\mathbb{R}\\). Vérifions que la matrice \\(\alpha A\\) est bien antisymétrique. Pour cela, évitez d'écrire une matrice au long, vous allez vous perdre. Rappelez-vous simplement que quand on multiplie une matrice par un scalaire, on obtient : \\((\alpha A)^\top=\alpha A^\top\\) (cette fois, vous pouvez écrire une matrice pour vous en convaincre). Ici, on a donc :
+- Considérons \\(A\\) une matrice antisymétrique et \\(\alpha\in\mathbb{R}\\). Vérifions que la matrice \\(\alpha A\\) est bien antisymétrique. Pour cela, évitez d'écrire une matrice au long, vous allez vous perdre. Rappelez-vous simplement que quand on multiplie une matrice par un scalaire, on obtient : \\((\alpha A)^\top=\alpha A^\top\\) (cette fois, vous pouvez écrire une matrice pour vous en convaincre). Ici, on a donc :
 
 $$(\alpha A)^\top=\alpha A^\top=\alpha(-A)=-(\alpha A).$$
 
 Donc la matrice \\(\alpha A\\) est antisymétrique également.
 
-3. Considérons 2 matrices \\(A\\) et \\(B\\) antisymétriques, i.e. \\(A^\top=-A\\) et \\(B^\top=-B\\). Rappelez-vous la formule : si \\(A\\) et \\(B\\) sont de mêmes dimensions, on a \\((A+B)^\top=A^\top+B^\top\\). Ainsi :
+- Considérons 2 matrices \\(A\\) et \\(B\\) antisymétriques, i.e. \\(A^\top=-A\\) et \\(B^\top=-B\\). Rappelez-vous la formule : si \\(A\\) et \\(B\\) sont de mêmes dimensions, on a \\((A+B)^\top=A^\top+B^\top\\). Ainsi :
 
 $$(A+B)^\top=A^\top+B^\top=-A+(-B)=-(A+B).$$
 
@@ -45,7 +45,15 @@ Conclusion : les 3 propriétés sont vérifiées, l'ensemble des matrices carré
 
 L'exercice §4.1-20 propose de montrer que l'ensemble \\(\mathcal{C}([a,b])\\) des fonctions continues sur un intervalle \\([a,b]\\) est un espace vectoriel (rappel : un *sous-espace vectoriel* est avant tout un espace vectoriel lui-même). Montrer que l'ensemble \\(\mathcal{C}_T([a,b])\\) des fonctions périodiques de période \\(T>0\\) est un sous-espace vectoriel de \\(\mathcal{C}([a,b])\\).
 
-Rappel : une fonction est dite périodique de période \\(T\\) si pour tout \\(x\in[a,b]\\), on a \\(f(x+T)=f(x)\\).
+Rappel : une telle fonction est dite périodique de période \\(T\\) si pour tout \\(x\in[a,b-T]\\), on a \\(f(x+T)=f(x)\\).
+
+#### Solutionnaire
+
+Même démarche, mais ici on manipule des objets un peu différents : des fonctions.
+
+- Nous sommes dans un espace de fonctions, l'élément nul est donc une fonction ! Il s'agit de la fonction que l'on notera \\(0 : [a,b]\to \mathbb{R}\\) qui vérifie : pour tout \\(x\in[a,b], 0(x)=0\\). Cette fonction est bien sûr périodique puisque dès lors que \\(x\in[a,b]\\), on a \\(0(x+T)=0=0(x)\\).
+- Considérons \\(f\in\mathcal{C}_T([a,b])\\) et \\(\alpha\in\mathbb{R}\\). Montrons que la fonction \\(\alpha f\\) est également périodique de période \\(T\\). Pour tout \\(x\in[a,b-T]\\), on a \\((\alpha f)(x+T)=\alpha f(x+T)=\alpha f(x)\\). Donc \\(\alpha f\\) est également périodique, de période \\(T\\).
+- Enfin, soient \\(f, g\in\mathcal{C}_T([a,b])\\). Montrons que la fonction \\(f+g\\) est également périodique de période \\(T\\). Pour \\(x\in[a,b-T]\\), on a \\((f+g)(x+T)=f(x+T)+g(x+T)=f(x)+g(x)=(f+g)(x)\\). Donc \\(f+g\\) est bien \\(T\\)-périodique.
 
 ## Exercices
 
