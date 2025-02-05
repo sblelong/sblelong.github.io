@@ -13,6 +13,12 @@ a. L'ensemble des matrices inversibles
 
 b. L'ensemble des matrices antisymétriques, i.e. telles que \\(A^\top=-A\\).
 
+#### Solutionnaire
+
+a. Vous devez immédiatement remarquer que cet ensemble n'est pas un sous-espace vectoriel, car il ne vérifie pas la toute première propriété : \\(0\\) n'est pas inversible ! Attention : ici, on est dans un espace vectoriel de matrices, vous devez donc comprendre le \\(0\\) comme la matrice nulle :
+
+\[\begin{bmatrix}0 & \cdot & 0\\ \vdots & \ddots & \vdots\\ 0 & 0 & 0\end{bmatrix}.\]
+
 ### Prélude aux séries de Fourier
 
 L'exercice §4.1-20 propose de montrer que l'ensemble \\(\mathcal{C}([a,b])\\) des fonctions continues sur un intervalle \\([a,b]\\) est un espace vectoriel (rappel : un *sous-espace vectoriel* est avant tout un espace vectoriel lui-même). Montrer que l'ensemble \\(\mathcal{C}_T([a,b])\\) des fonctions périodiques de période \\(T>0\\) est un sous-espace vectoriel de \\(\mathcal{C}([a,b])\\).
