@@ -10,6 +10,7 @@ permalink: /teaching/mth1008/td3
 L'espace des matrices carrées \\(n\times n\\) à coefficients réels est un espace vectoriel. Les ensembles suivants en sont-ils des sous-espaces vectoriels ?
 
 a. L'ensemble des matrices inversibles
+
 b. L'ensemble des matrices antisymétriques, i.e. telles que \\(A^\top=-A\\).
 
 ### Prélude aux séries de Fourier
@@ -27,6 +28,8 @@ Rappel : une fonction est dite périodique de période \\(T\\) si pour tout \\(x
 | §4.1. Espaces vectoriels, sous-espaces vectoriels | 1, 3    | 8, 12, 18      | 32         |
 | §4.2. Noyau, image et applications linéaires      | 18, 20  | 8, 16, 24      | 29         |
 | §4.3. Familles libres et bases                    | 4, 24   | 10, 14, 20, 25 |            |
+
+[Exercice récapitulatif proposé par Théo Denorme et Nathan Allaire.](/files/TN-extrait-recap-bases.pdf)
 
 *[Routine]: Exercices de base pour éveiller les premiers réflexes.
 *[Intermédiaire]: Exercices de calcul ou réflexion constituant la matière principale de l'examen.
