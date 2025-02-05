@@ -17,7 +17,29 @@ b. L'ensemble des matrices antisymétriques, i.e. telles que \\(A^\top=-A\\).
 
 a. Vous devez immédiatement remarquer que cet ensemble n'est pas un sous-espace vectoriel, car il ne vérifie pas la toute première propriété : \\(0\\) n'est pas inversible ! Attention : ici, on est dans un espace vectoriel de matrices, vous devez donc comprendre le \\(0\\) comme la matrice nulle :
 
-$$\begin{bmatrix}0 & \cdot & 0\\ \vdots & \ddots & \vdots\\ 0 & 0 & 0\end{bmatrix}.$$
+$$\begin{bmatrix}0 & \cdots & 0\\ \vdots & \ddots & \vdots\\ 0 & \cdots & 0\end{bmatrix}.$$
+
+Évidemment, cette matrice n'est pas inversible.
+
+b. Celle-ci est moins évidente, allons-y étape par étape.
+
+1. L'élément nul \\(0\\) est de nouveau la matrice nulle. Cette matrice est effectivement antsymétrique puisque
+
+$$\begin{bmatrix}0 & \cdots & 0\\ \vdots & \ddots & \vdots\\ 0 & \cdots & 0\end{bmatrix}^\top=\begin{bmatrix}0 & \cdots & 0\\ \vdots & \ddots & \vdots\\ 0 & \cdots & 0\end{bmatrix}=-\begin{bmatrix}0 & \cdots & 0\\ \vdots & \ddots & \vdots\\ 0 & \cdots & 0\end{bmatrix}$$.
+
+2. Considérons \\(A\\) une matrice antisymétrique et \\(\alpha\in\mathbb{R}\\). Vérifions que la matrice \\(\alpha A\\) est bien antisymétrique. Pour cela, évitez d'écrire une matrice au long, vous allez vous perdre. Rappelez-vous simplement que quand on multiplie une matrice par un scalaire, on obtient : \\((\alpha A)^\top=\alpha A^\top\\) (cette fois, vous pouvez écrire une matrice pour vous en convaincre). Ici, on a donc :
+
+$$(\alpha A)^\top=\alpha A^\top=\alpha(-A)=-(\alpha A).$$
+
+Donc la matrice \\(\alpha A\\) est antisymétrique également.
+
+3. Considérons 2 matrices \\(A\\) et \\(B\\) antisymétriques, i.e. \\(A^\top=-A\\) et \\(B^\top=-B\\). Rappelez-vous la formule : si \\(A\\) et \\(B\\) sont de mêmes dimensions, on a \\((A+B)^\top=A^\top+B^\top\\). Ainsi :
+
+$$(A+B)^\top=A^\top+B^\top=-A+(-B)=-(A+B).$$
+
+Donc la matrice \\(A+B\\) est également antisymétrique.
+
+Conclusion : les 3 propriétés sont vérifiées, l'ensemble des matrices carrées antisymétriques est donc un sous-espace vectoriel de \\(\mathbb{R}^{n\times n}\\).
 
 ### Prélude aux séries de Fourier
 
