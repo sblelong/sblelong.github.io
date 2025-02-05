@@ -17,7 +17,7 @@ b. L'ensemble des matrices antisymétriques, i.e. telles que \\(A^\top=-A\\).
 
 a. Vous devez immédiatement remarquer que cet ensemble n'est pas un sous-espace vectoriel, car il ne vérifie pas la toute première propriété : \\(0\\) n'est pas inversible ! Attention : ici, on est dans un espace vectoriel de matrices, vous devez donc comprendre le \\(0\\) comme la matrice nulle :
 
-\[\begin{bmatrix}0 & \cdot & 0\\ \vdots & \ddots & \vdots\\ 0 & 0 & 0\end{bmatrix}.\]
+$$\begin{bmatrix}0 & \cdot & 0\\ \vdots & \ddots & \vdots\\ 0 & 0 & 0\end{bmatrix}.$$
 
 ### Prélude aux séries de Fourier
 
