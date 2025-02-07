@@ -66,6 +66,7 @@ Même démarche, mais ici on manipule des objets un peu différents : des foncti
 | §4.3. Familles libres et bases                    | 4, 24   | 10, 14, 20, 25 |            |
 
 [Exercice récapitulatif proposé par Théo Denorme et Nathan Allaire.](/files/TN-extrait-recap-bases.pdf)
+[Solutionnaire](/files/TN-extrait-solution-bases.pdf)
 
 *[Routine]: Exercices de base pour éveiller les premiers réflexes.
 *[Intermédiaire]: Exercices de calcul ou réflexion constituant la matière principale de l'examen.
