@@ -11,7 +11,7 @@ Vous le savez, la famille \\(\\{v_1,...,v_n\\}\\) de vecteurs de l'espace vector
 
 Souvent, on se demande *comment montrer que cette famille engendre \\(V\\)* ? On se retrouve à répondre à cette question par le théorème suivant : si \\(V\\) est de dimension \\(n\\), une famille libre de \\(n\\) vecteurs de \\(V\\) en est une base, donc en particulier, elle engendre \\(V\\).
 
-Mais y a-t-il un moyen plus explicite de le vérifier ? Nous allons le montrer avec l'exemple de l'exercice §4.5-22 : montrez que la famille des 4 premiers polynômes de Laguerre engendrent bien \\(\mathbb{P}_3\\), i.e. montrez que tout polynôme de degré \\(\leq 3\\) peut s'écrire comme une combinaison linéaire de ces polynômes.
+Mais y a-t-il un moyen plus explicite de le vérifier ? Nous allons le montrer avec l'exemple de l'exercice §4.5-22 : montrez que la famille des 4 premiers polynômes de Laguerre engendre bien \\(\mathbb{P}_3\\), i.e. montrez que tout polynôme de degré \\(\leq 3\\) peut s'écrire comme une combinaison linéaire de ces polynômes.
 
 ## Exercices
 
