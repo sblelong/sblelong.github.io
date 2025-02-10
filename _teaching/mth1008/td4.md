@@ -1,5 +1,5 @@
 ---
-title: "TD4 : Théorème du rang, changements de bases et applications linéaires"
+title: "TD4 : Espaces vectoriels (partie 2)"
 permalink: /teaching/mth1008/td4
 ---
 
