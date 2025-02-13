@@ -15,7 +15,7 @@ La semaine passée, nous avons vu que les opérations sur les espaces de polynô
 
 $$p(t)=a_nt^n+...+a_1t+a_0\in\mathbb{P}_n$$
 
-comme le vecteur de \\(\mathbb{R}^{n+1}\\) regroupant ses composantes, i.e. :
+comme le vecteur de \\(\mathbb{R}^{n+1}\\) regroupant ses coefficients, i.e. :
 
 $$p(t)\to \begin{bmatrix}a_0\\ a_1\\ \vdots\\ a_n\end{bmatrix}\in\mathbb{R}^{n+1}.$$
 
