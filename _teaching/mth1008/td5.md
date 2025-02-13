@@ -5,7 +5,7 @@ permalink: /teaching/mth1008/td5
 
 ## Questions de cours
 
-### Équivalence injectivité \\(\Leftrightarrow\\) surjectivité pour les matrices carrées
+### Équivalence injectivité \\(\Leftrightarrow\\) surjectivité pour les endomorphismes
 
 Soit \\(T\\) un endomorphisme de \\(\mathbb{R}^n\\), c'est-à-dire une application linéaire de \\(\mathbb{R}^n\\) dans \\(\mathbb{R}^n\\). Montrer que \\(T\\) est surjective si et seulement si (\\(\Leftrightarrow\\)) \\(T\\) est injective. Autrement dit, pour une matrice carrée, l'injectivité et la surjectivité de l'application linéaire associée sont 2 notions équivalentes.
 
