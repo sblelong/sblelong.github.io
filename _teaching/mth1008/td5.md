@@ -19,7 +19,7 @@ comme le vecteur de \\(\mathbb{R}^{n+1}\\) regroupant ses coefficients, i.e. :
 
 $$p(t)\to \begin{bmatrix}a_0\\ a_1\\ \vdots\\ a_n\end{bmatrix}\in\mathbb{R}^{n+1}.$$
 
-Cette astuce est justifiée par l'existence d'une correspondance naturelle entre \\(P_n\\) et \\(R^{n+1}\\). Cette correspondance s'appelle un *isomorphisme*.
+Cette astuce est justifiée par l'existence d'une correspondance naturelle entre \\(\mathbb{P}_n\\) et \\(\mathbb{R}^{n+1}\\). Cette correspondance s'appelle un *isomorphisme*.
 
 Considérons l'application \\(T : \mathbb{P}_n\to\mathbb{R}^{n+1}\\) définie pour tout polynôme \\(p(t)=a_nt^n+...+a_1t+a_0\\) par :
 
