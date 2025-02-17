@@ -31,8 +31,8 @@ Montrez que cette application est linéaire et bijective. La propriété de bije
 
 | Section                                       | Routine | Intermédiaire | Approfondi |
 | --------------------------------------------- | ------- | ------------- | ---------- |
-| §1.8. Introduction aux applications linéaires |         |               |            |
-| §1.9. Matrice d'une application linéaire      |         |               |            |
+| §1.8. Introduction aux applications linéaires | 4, 8        | 13-16, 18, 24             |            |
+| §1.9. Matrice d'une application linéaire      | 8, 12, 18       | 26, 28, 30              |            |
 
 *[Routine]: Exercices de base pour éveiller les premiers réflexes.
 *[Intermédiaire]: Exercices de calcul ou réflexion constituant la matière principale de l'examen.
