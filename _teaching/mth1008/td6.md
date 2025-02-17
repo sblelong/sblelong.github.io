@@ -9,7 +9,7 @@ Soit \\(z\in\mathbb{C}^*\\) un nombre dont les parties réelle et imaginaire son
 
 1. Montrez que \\(\frac{z}{\bar{z}}=i\\)
 
-2. (Ajout intelligemment suggéré par Théo Dénorme) Supposons de plus que \\(\mathrm{Re}(z)>0\\). Exprimez \\(z\\) sous forme exponentielle en fonction de \\(Re(z)\\).
+2. (Ajout intelligemment suggéré par Théo Dénorme) Supposons de plus que \\(\mathrm{Re}(z)>0\\). Exprimez \\(z\\) sous forme exponentielle en fonction de \\(\mathrm{Re}(z)\\).
 
 ## Exercices
 
