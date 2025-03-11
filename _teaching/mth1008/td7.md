@@ -9,12 +9,12 @@ Soient \\(A\in\mathbb{R}^{n\times n}\\) et \\(\lambda\in\mathbb{C}\\) une valeur
 
 ## Exercices
 
-| Section                                     | Routine | Intermédiaire                                      | Approfondi |
-| ------------------------------------------- | ------- | -------------------------------------------------- | ---------- |
-| §5.1. Vecteurs propres, valeurs propres     | 8, 10   | 18, 20, 21                                         | 29, 32     |
-| §5.2. Équation et polynôme caractéristiques | 16      | 18 (remplacer \\(\lambda=4\\) par \\(\lambda=5\\)) | 20         |
-| §5.5. Valeurs propres complexes             |         | Exemple de la slide 20 du cours 8 + exercice 18    |            |
-| §5.3. Diagonalisation                       | 23-26   |                                                    |            |
+| Section                                          | Routine      | Intermédiaire                                      | Approfondi |
+| ------------------------------------------------ | ------------ | -------------------------------------------------- | ---------- |
+| §5.1. Vecteurs propres, valeurs propres          | 8, 10        | 18, 20, 21                                         | 23, 24, 32 |
+| §5.2. Équation et polynôme caractéristiques      | 16           | 18 (remplacer \\(\lambda=4\\) par \\(\lambda=5\\)) | 20, 24     |
+| §5.3. Diagonalisation                            | 5, 4, 24, 26 | 12, 21, 32                                         |            |
+| §5.4. Vecteurs propres et applications linéaires |              | 12                                                 |            |
 
 
 *[Routine]: Exercices de base pour éveiller les premiers réflexes.
