@@ -1,5 +1,5 @@
 ---
-title: "TD7 : Valeurs et vecteurs propres"
+title: "TD7 : Valeurs et vecteurs propres, diagonalisation (partie 1)"
 permalink: /teaching/mth1008/td7
 ---
 
