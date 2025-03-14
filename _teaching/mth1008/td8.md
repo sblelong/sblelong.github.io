@@ -1,5 +1,5 @@
 ---
-title: "TD8: Diagonalisation"
+title: "TD8: Diagonalisation (partie 2)"
 permalink: /teaching/mth1008/td8
 ---
 
