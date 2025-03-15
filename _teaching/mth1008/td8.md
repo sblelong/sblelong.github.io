@@ -7,8 +7,8 @@ permalink: /teaching/mth1008/td8
 
 | Section                                          | Routine | Intermédiaire | Approfondi |
 | ------------------------------------------------ | ------- | ------------- | ---------- |
-| §5.4. Vecteurs propres et applications linéaires |         |               |            |
-| §5.5. Valeurs propres complexes                  |         |               |            |
+| §5.4. Vecteurs propres et applications linéaires | 3       | 12, 14        | 22         |
+| §5.5. Valeurs propres complexes                  | 4       | 18            | 24         |
 
 
 *[Routine]: Exercices de base pour éveiller les premiers réflexes.
