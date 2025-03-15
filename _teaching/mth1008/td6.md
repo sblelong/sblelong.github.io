@@ -20,6 +20,7 @@ Soit \\(z\in\mathbb{C}^*\\) un nombre dont les parties réelle et imaginaire son
 | Nombres complexes : [fiche d'exercices ici](/files/td-complexes.pdf) | 2, 3    | 4, 5, 6, 7, 8, 9                                | 1 ([capsule de correction](https://polymtlca0-my.sharepoint.com/:v:/g/personal/sacha_benarroch-lelong_polymtlus_ca/EbeewBUfL55BmtiUEEsMZHoBYl7DitV--KpTC02jcVjkhA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vvk3MJ)) |
 
 [Solutionnaire aux exercices de TD](/files/td-complexes-sol.pdf). Les exercices sont numérotés différemment :
+
 | Questionnaire | Solutionnaire |
 | ------------- | ------------- |
 | 9             | 6.1           |
@@ -30,7 +31,6 @@ Soit \\(z\in\mathbb{C}^*\\) un nombre dont les parties réelle et imaginaire son
 | 6             | 20 et 27      |
 | 3             | 37 et 39      |
 | 5             | 41 et 43      |
-
 
 
 ## Contenu supplémentaire
