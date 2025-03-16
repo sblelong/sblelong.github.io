@@ -1,5 +1,5 @@
 ---
-title: "TD9: Orthogonalité et projections"
+title: "TD9: Révisions de diagonalisation / Orthogonalité"
 permalink: /teaching/mth1008/td9
 ---
 
