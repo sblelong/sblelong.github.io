@@ -22,10 +22,10 @@ En guise de dernières révisions pour le CP2, je vous propose de traiter certai
 
 ## Exercices
 
-| Section                                            | Routine           | Intermédiaire | Approfondi |
-| -------------------------------------------------- | ----------------- | ------------- | ---------- |
-| §6.1. Produit scalaire, longueurs et orthogonalité | 6, 10, 14         | 19, 25, 26    | 28, 31     |
-| §6.2. Familles orthogonales                        | 2, 10, 12, 14, 16 | 24, 26        | 33         |
+| Section                                            | Routine       | Intermédiaire | Approfondi |
+| -------------------------------------------------- | ------------- | ------------- | ---------- |
+| §6.1. Produit scalaire, longueurs et orthogonalité | 6, 10, 14     | 19, 25, 26    | 28, 31     |
+| §6.2. Familles orthogonales                        | 2, 10, 12, 14 | 16, 24        | 26, 33     |
 
 
 *[Routine]: Exercices de base pour éveiller les premiers réflexes.

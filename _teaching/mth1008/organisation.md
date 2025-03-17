@@ -38,6 +38,6 @@ Les mini-projets commenceront à **16h35**. Votre présence 5 minutes avant est 
 {: .notice}
 
 | Mini-projet 1 | 29/01/2025 |
-| Mini-projet 2 | 19/01/2025 |
-| Mini-projet 3 | 19/01/2025 |
-| Mini-projet 4 | 02/01/2025 |
+| Mini-projet 2 | 19/02/2025 |
+| Mini-projet 3 | 19/03/2025 |
+| Mini-projet 4 | 02/04/2025 |
