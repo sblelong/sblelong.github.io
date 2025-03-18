@@ -36,6 +36,8 @@ Soit \\(z\in\mathbb{C}^*\\) un nombre dont les parties réelle et imaginaire son
 ## Contenu supplémentaire
 [Exercice sur les espaces vectoriels complexes](/files/corps-scalaires.pdf)
 
+[Capsule liée](https://youtu.be/ye5QKAAUMTM)
+
 *[Routine]: Exercices de base pour éveiller les premiers réflexes.
 *[Intermédiaire]: Exercices de calcul ou réflexion constituant la matière principale de l'examen.
 *[Approfondi]: Exercices allant plus loin que les calculs classiques. Ils ne sont pas toujours (mais souvent) les plus compliqués et vous prépareront aux questions d'examen nécessitant plus de réflexion personnelle.
