@@ -20,6 +20,8 @@ En guise de dernières révisions pour le CP2, je vous propose de traiter certai
 - Partie 1 (traitée pendant le TD): 1, 2, 3
 - Partie 2 (traitée en supplément du TD): 4 et 5.
 
+[Solutionnaire ici](/files/TN_9_sol.pdf).
+
 ## Exercices
 
 | Section                                            | Routine       | Intermédiaire | Approfondi |
