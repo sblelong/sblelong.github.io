@@ -18,7 +18,7 @@ Une partie de ce TD traite de choses que vous connaissez déjà. Il est donc div
 
 ### Rappels
 
-Les exercices traités en TD sont **en gras**. Pour les autres, le solutionnaire est [ici](files/td0-correction.pdf).
+Les exercices traités en TD sont **en gras**. Pour les autres, le solutionnaire est [ici](/files/td0-correction.pdf).
 
 | Section                                              | Routine         | Intermédiaire          | Approfondi |
 | ---------------------------------------------------- | --------------- | ---------------------- | ---------- |
