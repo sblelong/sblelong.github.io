@@ -29,15 +29,15 @@ Les exercices traités en TD sont **en gras**. Pour les autres, le solutionnaire
 
 ### Exercices principaux
 
-| Section                                       | Routine | Intermédiaire      | Approfondi      |
-| --------------------------------------------- | ------- | ------------------ | --------------- |
-| 1.7. Indépendance linéaire                    | 2, 10   | 14, 18, 20, 22, 24 | 32              |
-| 2.2. Inverse d'une matrice                    |         | 13, 18, 20, 32     |                 |
-| 2.3. Caractérisation des matrices inversibles | 4       | 14, 23             | 26              |
-| 2.4. Matrices par blocs                       | 8       | 21, 25             |                 |
-| 2.5. Factorisations matricielles              | 4, 14   | 21                 |                 |
-| 3.1. Introduction aux déterminants            | 4       | 24, 26             | 31 (le montrer) |
-| 3.2. Propriétés des déterminants              | 3, 4    | 14, 24             | 31              |
+| Section                                       | Routine                                                                | Intermédiaire      | Approfondi      |
+| --------------------------------------------- | ---------------------------------------------------------------------- | ------------------ | --------------- |
+| 1.7. Indépendance linéaire                    | 2, 10                                                                  | 14, 18, 20, 22, 24 | 32              |
+| 2.2. Inverse d'une matrice                    |                                                                        | 13, 18, 20, 32     |                 |
+| 2.3. Caractérisation des matrices inversibles | 4                                                                      | 14, 23             | 26              |
+| 2.4. Matrices par blocs                       | 8                                                                      | 21, 25             |                 |
+| 2.5. Factorisations matricielles              | [4](https://youtu.be/kNg1zhz98i4), [14](https://youtu.be/w8zb5liSURU]) | 21                 |                 |
+| 3.1. Introduction aux déterminants            | 4                                                                      | 24, 26             | 31 (le montrer) |
+| 3.2. Propriétés des déterminants              | 3, 4                                                                   | 14, 24             | 31              |
 
 
 *[Routine]: Exercices de base pour éveiller les premiers réflexes.
