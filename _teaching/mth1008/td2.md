@@ -1,5 +1,5 @@
 ---
-title: "TD1 : Cours 4 et 5"
+title: "TD2 : cours 4 et 5"
 permalink: /teaching/mth1008/td2
 ---
 
