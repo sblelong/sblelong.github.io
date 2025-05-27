@@ -8,9 +8,9 @@ permalink: /teaching/mth1008/td-bases
 
 ## Exercices
 
-| Section                   | Routine | Intermédiaire | Approfondi |
-| ------------------------- | ------- | ------------- | ---------- |
-| 4.7. Changements de bases | 4, 6    | 8, 14, 19     |            |
+| Section                   | Routine | Intermédiaire                             | Approfondi |
+| ------------------------- | ------- | ----------------------------------------- | ---------- |
+| 4.7. Changements de bases | 4, 6    | 8, 14, [19](https://youtu.be/whFn20Htet8) |            |
 
 *[Routine]: Exercices de base pour éveiller les premiers réflexes.
 *[Intermédiaire]: Exercices de calcul ou réflexion constituant la matière principale de l'examen.
