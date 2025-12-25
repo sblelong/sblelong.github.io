@@ -1,5 +1,5 @@
 ---
-title: "Organisation des travaux dirigés"
+title: "Organisation de la session"
 permalink: /teaching/mth1008/organisation
 ---
 
